@@ -6,6 +6,8 @@
 [![Platform](https://img.shields.io/cocoapods/p/SHLocalized.svg?style=flat)](https://cocoapods.org/pods/SHLocalized)
 
 ## Example
+![Simulator Screen Recording - iPhone 15 Pro Max - 2023-11-10 at 18.55.24](assets/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20Max%20-%202023-11-10%20at%2018.55.24.gif)
+
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
