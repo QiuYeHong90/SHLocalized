@@ -17,7 +17,7 @@ SHLocalized is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SHLocalized'
+pod 'SHLocalized', :git => 'https://github.com/QiuYeHong90/SHLocalized'
 ```
 
 ## Author
