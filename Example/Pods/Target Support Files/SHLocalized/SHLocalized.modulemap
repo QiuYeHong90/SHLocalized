@@ -1,0 +1,6 @@
+framework module SHLocalized {
+  umbrella header "SHLocalized-umbrella.h"
+
+  export *
+  module * { export * }
+}

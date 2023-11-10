@@ -1,0 +1,22 @@
+{
+  "name": "SHLocalized",
+  "version": "0.1.0",
+  "summary": "A short description of SHLocalized.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YeQiu/SHLocalized",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YeQiu": "793983383@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/YeQiu/SHLocalized.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SHLocalized/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SHLocalized (0.1.0)
+
+DEPENDENCIES:
+  - SHLocalized (from `../`)
+
+EXTERNAL SOURCES:
+  SHLocalized:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHLocalized: 42176902b71a673f0c15ab85bf288b2445364247
+
+PODFILE CHECKSUM: 3636736c1761e13040e0997ae1fefedf3603c493
+
+COCOAPODS: 1.13.0
