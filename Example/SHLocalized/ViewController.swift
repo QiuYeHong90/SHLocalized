@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     }
     @objc func setText(){
         
-        self.textLabel.text = SHLocalizedManager.NSLocalizedString("fff", comment: "test")
+        self.textLabel.text = SHLocalizedManager.NSLocalizedString("chinese", comment: "test")
         self.title = NSLocalizedString("I am chinese", comment: "test")
     }
     
