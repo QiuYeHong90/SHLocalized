@@ -1,6 +1,16 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "apples" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "@num"
+          }
+        }
+      }
+    },
     "chinese" : {
       "comment" : "test",
       "localizations" : {
@@ -15,10 +25,10 @@
     "I am chinese" : {
       "comment" : "test",
       "localizations" : {
-        "zh-Hans" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "我是中国人"
+            "value" : "i am chinesef"
           }
         }
       }

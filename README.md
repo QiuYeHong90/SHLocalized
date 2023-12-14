@@ -29,3 +29,7 @@ YeQiu, 793983383@qq.com
 ## License
 
 SHLocalized is available under the MIT license. See the LICENSE file for more info.
+## 英语单词听
+```
+http://download.dogwood.com.cn/online/4jzx/02.mp3
+```
